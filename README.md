@@ -8,7 +8,7 @@ The project follows a layered architecture with a controller and service layer. 
 
 ## Requirements
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 - Git
 
