@@ -24,6 +24,8 @@ The project follows a layered architecture with a controller and service layer. 
 3. **Run the application:**
    ```bash
    mvn spring-boot:run
+   ```
+   The app will run on http://localhost:8080 by default
 
 ## API Endpoints
 
